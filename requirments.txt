@@ -1,0 +1,6 @@
+ceylon
+fastapi
+uvicorn
+pydantic
+loguru
+python-multipart
